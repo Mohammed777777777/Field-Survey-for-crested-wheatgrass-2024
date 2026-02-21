@@ -1,4 +1,4 @@
-# Saskatchewan Landing Provincial Park – Field Data Collection Project
+# Saskatchewan Landing Provincial Park – Field Data Collection Using ArcGIS Field Map
 
 ## Overview
 
